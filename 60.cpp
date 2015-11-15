@@ -8,5 +8,6 @@ fun1()
 
 fun2()
 {
+	dgdfgdfdfgdf
    가가가가가가가가가가가가
 }
